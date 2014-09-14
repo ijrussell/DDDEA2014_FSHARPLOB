@@ -1,0 +1,37 @@
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\RssReader.XML
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\RssReader.exe
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\RssReader.pdb
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Core.dll
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Data.DesignTime.dll
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Data.dll
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Data.pdb
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Data.xml
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Data.DesignTime.pdb
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Data.DesignTime.xml
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\bin\Debug\FSharp.Core.xml
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\obj\Debug\RssReader.exe
+c:\users\ian\documents\visual studio 2012\Projects\RssReader\RssReader\obj\Debug\RssReader.pdb
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\RssReader.XML
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\obj\Debug\RssReader.exe
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\obj\Debug\RssReader.pdb
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\tekpub_rss.xml
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\random.json
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\500-uk.csv
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\500-uk-no-header.csv
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\RssReader.exe
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\RssReader.pdb
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Core.dll
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.DesignTime.dll
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.dll
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.pdb
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.xml
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.DesignTime.pdb
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.DesignTime.xml
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Core.xml
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Charting.dll
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Charting.pdb
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Charting.xml
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Date.dll
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.SqlProvider.dll
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.SqlProvider.pdb
+C:\Users\Ian-Laptop\Dropbox\dddnorth\RssReader\RssReader\bin\Debug\FSharp.Data.SqlProvider.xml

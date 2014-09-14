@@ -1,0 +1,8 @@
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\bin\Release\Form_MVVM.exe.config
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\bin\Release\Form_MVVM.XML
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\bin\Release\Form_MVVM.exe
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\bin\Release\Form_MVVM.pdb
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\bin\Release\FSharp.Core.dll
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\bin\Release\FSharp.Core.xml
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\obj\Release\Form_MVVM.exe
+C:\Users\Ian\Downloads\syncfusion-fsharp-succinctly-25826bd4c41f\syncfusion-fsharp-succinctly-25826bd4c41f\Chapter7\Form_MVVM\obj\Release\Form_MVVM.pdb

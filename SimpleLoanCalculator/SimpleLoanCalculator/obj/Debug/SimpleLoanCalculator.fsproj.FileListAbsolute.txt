@@ -1,0 +1,15 @@
+C:\Code\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\SimpleLoanCalculator.XML
+C:\Code\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\SimpleLoanCalculator.dll
+C:\Code\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\SimpleLoanCalculator.pdb
+C:\Code\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\FSharp.Core.dll
+C:\Code\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\FSharp.Core.xml
+C:\Code\SimpleLoanCalculator\SimpleLoanCalculator\obj\Debug\SimpleLoanCalculator.dll
+C:\Code\SimpleLoanCalculator\SimpleLoanCalculator\obj\Debug\SimpleLoanCalculator.pdb
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\SimpleLoanCalculator.XML
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\SimpleLoanCalculator.dll
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\SimpleLoanCalculator.pdb
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\FSharp.Core.dll
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\bin\Debug\FSharp.Core.xml
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\obj\Debug\SimpleLoanCalculator.fsprojResolveAssemblyReference.cache
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\obj\Debug\SimpleLoanCalculator.dll
+C:\Users\Ian-Laptop\Dropbox\Presentations\DDDEA_2014\SimpleLoanCalculator\SimpleLoanCalculator\obj\Debug\SimpleLoanCalculator.pdb
